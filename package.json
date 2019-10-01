@@ -1,0 +1,22 @@
+{
+  "name": "mowsmqtt-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeygov/mowsmqtt-deploy.git"
+  },
+  "author": "JOEY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeygov/mowsmqtt-deploy/issues"
+  },
+  "homepage": "https://github.com/joeygov/mowsmqtt-deploy#readme",
+  "engines": {
+    "node": "10.15"
+  }
+}
